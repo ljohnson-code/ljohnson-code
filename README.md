@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luke
 - 👀 I’m interested in scientific computation
-- 🌱 I’m currently learning Computational Fluid Dyncamics and Aerospace engineering at College
+- 🌱 I’m currently learning Computational Fluid Dynamics and Aerospace engineering at College.
 
 
 <!---
